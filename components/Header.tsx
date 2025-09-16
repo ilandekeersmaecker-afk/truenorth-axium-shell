@@ -7,7 +7,7 @@ export default function Header() {
       {/* Minimal brand banner */}
       <div className="w-full bg-[#0A1220] border-b-4 border-[#39D2BE]">
         <div className="mx-auto max-w-7xl px-4 py-3 text-center text-lg font-semibold text-white tracking-wide">
-          True North Axium
+          True North Axium (Test)
         </div>
       </div>
 
